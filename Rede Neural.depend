@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1599337134 source:c:\users\usuario\desktop\trabalhos\rede neural\main.cpp
+	<cstdlib>
+	<iostream>
+	<vector>
+	"neuralnet.cc"
+
+1557108638 c:\users\usuario\desktop\trabalhos\rede neural\neuralnet.hh
+	<math.h>
+
+1599337444 c:\users\usuario\desktop\trabalhos\rede neural\neuralnet.cc
+	<iostream>
+	<math.h>
+	<vector>
+	<map>
+	<ctime>
+	<cstdlib>
+
+1599337336 source:c:\users\usuario\desktop\trabalhos\rede neural\neuralnet.cc
+	<iostream>
+	<math.h>
+	<vector>
+	<map>
+	<ctime>
+	<cstdlib>
+
